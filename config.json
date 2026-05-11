@@ -1,0 +1,5 @@
+{
+  "question_file": "questions.json",
+  "default_points": 10,
+  "show_correct_answers_default": true
+}
